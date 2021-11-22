@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Home"
 title_separator          : "|"
-subtitle                 : ABCD
+subtitle                 : "ABCD"
 name                     : "홍길동"
 description              : "EFG"
 url                      : "https://zidnf.github.io"
