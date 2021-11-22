@@ -19,6 +19,14 @@ https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 Typora처럼 파일 -> 폴더 열기 -> github 폴더 선택 방식으로
 불러 오시면 됩니다
 
-폴더 트리쪽에 보시면 _config.yml이라는 파일이 보이는데
-굉장히 중요한 파일입니다
+폴더 트리쪽에 보시면 _config.yml이라는 파일을 이용해
+설정값을 바꿔보겠습니다
+
+# 1. 스킨
+
+- 15번 라인 minimal_mistakes_skin
+
+  전체적인 분위기를 바꿔줍니다
+
+  default를 -> plum 으로 바꿔보겠습니다
 
