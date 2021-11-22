@@ -22,11 +22,45 @@ Typora처럼 파일 -> 폴더 열기 -> github 폴더 선택 방식으로
 폴더 트리쪽에 보시면 _config.yml이라는 파일을 이용해
 설정값을 바꿔보겠습니다
 
-# 1. 스킨
+
 
 - 15번 라인 minimal_mistakes_skin
 
-  전체적인 분위기를 바꿔줍니다
+  테마를 설정값입니다
 
   default를 -> plum 으로 바꿔보겠습니다
+
+  
+
+- 18줄 locale설정 
+
+  en-US -> ko-KR
+
+  
+
+- 19줄 좌측상단 title
+
+  본인이 원하는 title
+
+  
+
+- 20줄
+
+
+
+- 21줄 좌측상단 subtitle
+
+  본인이 원하는 subtitle
+
+  
+
+- 22줄 하단 이름
+
+  본인이 원하는 이름
+
+
+
+
+
+
 
