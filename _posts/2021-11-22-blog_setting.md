@@ -54,7 +54,7 @@ Typora처럼 파일 -> 폴더 열기 -> github 폴더 선택 방식으로
 
 - 20줄 윈도우 title
 
-  ```shift+\ 로 구분값 설정
+  **shift+\** 로 구분값 설정
 
 - 21줄 좌측상단 subtitle
 
