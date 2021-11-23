@@ -62,17 +62,25 @@ Typora처럼 파일 -> 폴더 열기 -> github 폴더 선택 방식으로
 
 
 
-
-
-
-
 - 103줄 Site Author
 
   좌측 이름 , bio , 사는 곳 , 이메일
 
 
 
+- 28줄 로고
+
+  뒤에 적혀있는 "/assets/images/88x88.png"만 남기시고 
+
+  주석은 지워주시면 됩니다
+
+  그다음 자신이 넣은 이미지 파일명만 바꾸시면 로고가 바뀌는것을 확인하실 수 있습니다
+
+  "/assets/images/88x88.png" -> "/assets/images/img.jpg"
 
 
 
+- 30줄네비게이션 추가
+
+  주석을 풀어주시고 false를 true로 바꿔주시면 됩니다
 
