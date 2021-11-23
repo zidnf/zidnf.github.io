@@ -44,7 +44,9 @@ Typora처럼 파일 -> 폴더 열기 -> github 폴더 선택 방식으로
 
   
 
-- 20줄
+- 20줄 title_separator
+
+​		인터넷 창 title 설정
 
 
 
