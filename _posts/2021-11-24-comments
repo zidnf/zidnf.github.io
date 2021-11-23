@@ -1,0 +1,124 @@
+---
+layout: single
+title: "github blog 댓글"
+categories: github
+tag: github
+---
+
+
+
+오늘은 댓글 기능을 추가해 보도록 하겠습니다
+
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
+Comments부분에 Disqus를 사용하겠습니다
+
+
+
+해당 페이지에 가셔서 로그인 혹은 회원가입을 진행해줍니다
+
+완료가 되었으면
+
+우측 상단에 있는 프로필을 클릭후 Settings 클릭
+
+
+
+들어가셔서 다시 오른쪽 상단 톱니모양클릭
+
+Add Disqus To Site 클릭
+
+
+
+페이지 가장 아래로 이동하셔서
+
+GET STARTED 클릭
+
+
+
+I want to install Disqus on my site 선택
+
+
+
+Website Name 본인이 원하는 이름 적어주시고
+
+Cetegory 본인이 원하는 cetegory 
+
+Language는 그대로 English로 하겠습니다
+
+처음하시는분들은 Organization이 없으실겁니다
+
+계속 진행해 주시면 됩니다
+
+
+
+저희는 무료버전을 사용하겠습니다
+
+Billed에 yearly를 클릭으로
+
+monthly로 바꿔준후
+
+내려가셔서 Subscribe Now를 눌러주시면 됩니다
+
+
+
+여러가지가 있는데
+
+그중  Jekyll를 선택해 주시면됩니다
+
+
+
+instructions이 나오게 되는데 이따가 살펴보겠습니다
+
+우측하단에 있는  Configure버튼 클릭
+
+
+
+Website URL 곳에 자신의 github주소를 넣어주시고 
+
+next버튼 클릭
+
+
+
+우측하단에 Complete Setup버튼 클릭
+
+
+
+이제 _config.yml로 들어가셔서
+
+가장 하단에 있는 comments를 true로 바꿔주시면 됩니다
+
+(288라인 주석 지우시면 됩니다)
+
+
+
+위로 올라오셔서 32라인 comments를 수정해줄텐데
+
+33라인 provider에 disqus를 넣어주시면 됩니다
+
+
+
+다시 disqus 페이지에 오셔서
+
+Admin을 클릭
+
+
+
+Select a specific site클릭
+
+
+
+아까 입력한 자신의 주소 클릭
+
+
+
+좌측상단 글귀중 뒤에있는 단어를 복사해
+
+다시 _config.yml파일로 돌아가셔서
+
+35라인 shortname에 있는 주석 지우시고
+
+넣어주시면 됩니다
+
+
+
+이후 github desktop을  이용해 서버에 올리게 되시면
