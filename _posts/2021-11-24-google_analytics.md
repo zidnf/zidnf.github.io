@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "github blog 댓글"
+title: "github blog 에널리틱스"
 categories: github
 tag: github
 ---
