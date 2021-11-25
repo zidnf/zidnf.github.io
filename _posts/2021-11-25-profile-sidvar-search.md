@@ -4,6 +4,7 @@ title: "github blog author profile, sidebar, 검색기능"
 categories: github
 tag: github
 toc: true
+author_profile: false
 ---
 
 
