@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "github blog 공지사항, 버튼, 영상추가"
+title: "github blog 공지사항, 버튼, YouTube 영상추가"
 categories: github
 tag: github
 toc: true
@@ -107,4 +107,74 @@ link는 구글 홈페이지로 적어보겠습니다
 
 
 [Text](https://google.com){: .btn .btn--success}
+
+
+
+![화면 캡처 2021-11-25 130129](../images/2021-11-25-notice-button-video/화면 캡처 2021-11-25 130129.png)
+
+버튼이 생성되었고 버튼 클릭 시 
+
+구글 홈페이지로 연결이 됩니다
+
+
+
+# 3. YouTube 영상
+
+https://mmistakes.github.io/minimal-mistakes/docs/helpers/
+
+주소로 오시면 됩니다
+
+![화면 캡처 2021-11-25 130545](C:\Users\user\Pictures\Screenshots\화면 캡처 2021-11-25 130545.png)
+
+보이시는 코드 복사
+
+게시물 md파일로 오셔서 붙여넣기
+
+![화면 캡처 2021-11-25 131101](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131101.png)
+
+
+id를 수정해주셔야 하는데
+원하시는 영상 상단에 링크를 보시게 되면
+
+![화면 캡처 2021-11-25 131310](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131310.png)
+
+watch?v= 뒤에 오는것이 id 입니다
+
+링크가 제대로 나오시지 않으시면 해당 영상에 가셔서
+
+![화면 캡처 2021-11-25 131544](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131544.png)
+
+오른쪽 하단 공유 클릭
+
+![화면 캡처 2021-11-25 131557](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131557.png)
+
+퍼가기 선택
+
+![화면 캡처 2021-11-25 131659](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131659.png)
+
+드래그한 부분이 id에 들어가면 됩니다
+
+![화면 캡처 2021-11-25 131932](../images/2021-11-25-notice-button-youTube/화면 캡처 2021-11-25 131932.png)
+
+
+
+{% include video id="q0P3TSoVNDM" provider="youtube" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
