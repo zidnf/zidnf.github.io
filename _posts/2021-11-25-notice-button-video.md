@@ -59,24 +59,40 @@ Notice Headline에 적혀있는것 처럼
 
 div테그로 감싸주시면 됩니다
 
+
+
+![화면 캡처 2021-11-25 124156](../images/2021-11-25-notice-button-video/화면 캡처 2021-11-25 124156.png)
+
+
+
 <div class="notice--warning">
 공지사항 예시
-이 안에는 html테그가 들어오실수 있으십니다
+이 안에는 html테그가 들어올 수 있으십니다
 <ul>
     <li>예시1</li>
     <li>예시2</li>
 </ul>
 </div>
 
+![화면 캡처 2021-11-25 124710](../images/2021-11-25-notice-button-video/화면 캡처 2021-11-25 124710.png)
 
 
 
+# 2. 버튼
 
 
 
+![화면 캡처 2021-11-25 125138](../images/2021-11-25-notice-button-video/화면 캡처 2021-11-25 125138.png)
+
+해당 사이트에 가시면 버튼에 대한 설명이 잘 나와있는데
+
+이중 Success 를 한번 만들어보겠습니다
 
 
 
+![화면 캡처 2021-11-25 125411](../images/2021-11-25-notice-button-video/화면 캡처 2021-11-25 125411.png)
 
+드래그 한 부분을 복사 후
 
+[Text](#link){: .btn .btn--success}
 
